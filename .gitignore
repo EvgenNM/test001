@@ -1,4 +1,4 @@
 *.log
-*i.txt
+*a.txt
 /log
 *[xcb].html
